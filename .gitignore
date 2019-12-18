@@ -1,0 +1,14 @@
+.DS_Store
+out
+pkg
+bin
+src/service/vendor
+src/github.com/*
+src/golang.org/*
+src/gopkg.in/*
+src/sourcegraph.com/*
+src/honnef.co/*
+main
+**/.idea/*
+.env
+app
